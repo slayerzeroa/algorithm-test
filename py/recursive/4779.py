@@ -16,3 +16,5 @@ while True:
         print(''.join(result))
     except:
         break
+
+    
